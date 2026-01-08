@@ -712,7 +712,7 @@ a:focus-visible {
   align-items: center;
   width: 100%;
   padding: var(--space-12) 0;
-  background: url('images/futuristic-bg.jpg') center/cover no-repeat;
+  background: url('Images/futuristic-bg.jpg') center/cover no-repeat;
   box-shadow:
     inset 0 0 100px rgba(0, 0, 0, 0.3),
     0 4px 30px rgba(0, 0, 0, 0.2);
